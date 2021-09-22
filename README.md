@@ -10,7 +10,7 @@
 
 ### Valid endpoints
 
-#### "/exercise/zoo"
+#### "http://localhost:4000/exercise/zoo"
 
 - Method: POST
 - Input Body Example:
@@ -26,9 +26,8 @@
       "animalType": "TIGER",
       "inputSpeak": "Lions suck"
   }
-   ```
 
-#### "/exercise/url_parser"
+#### "http://localhost:4000/exercise/url_parser"
 
 - Method: POST
 - Input Body Example:
@@ -39,7 +38,7 @@
   }
   ```
 
-#### "/exercise/error_alarm"
+#### "http://localhost:4000/exercise/error_alarm"
 
 - Method: GET
 - Returns Saved Errors, the operation of the endpoint is detailed in the ErrorAlarmModel file
