@@ -1,4 +1,4 @@
-# Rotunda Exercise
+# Rotunda Challenge
 
 ### Running the APP
 
